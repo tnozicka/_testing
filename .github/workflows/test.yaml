@@ -14,5 +14,5 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
     - name: test
-      run: echo master
+      run: echo release-1.0
 
