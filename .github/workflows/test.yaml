@@ -35,5 +35,3 @@ jobs:
         
         df -h
         sudo du -sh /* | sort -h
-        
-        true
